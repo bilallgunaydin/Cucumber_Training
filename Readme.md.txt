@@ -1,0 +1,1 @@
+At http://automationpractice.com/index.php, transactions such as contact, login, register are done with cucumber.
